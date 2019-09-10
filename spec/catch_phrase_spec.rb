@@ -1,8 +1,5 @@
 require "spec_helper"
 
-def rescue_princess_peach
-  status = "Rescued"
-  puts "Hooray! Mario has rescued Princess Peach"
 
 describe "#catch_phrase" do
   it "puts out a catch phrase" do
